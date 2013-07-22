@@ -1,1 +1,1 @@
-Ejemplo Cajeros electrónicos que viene en el libro "The cucumber book"
+Ejemplo Cajeros automáticos que viene en el libro "The cucumber book"

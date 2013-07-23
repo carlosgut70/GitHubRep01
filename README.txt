@@ -1,1 +1,0 @@
-Ejemplo Cajeros automáticos del libro "The cucumber book"
